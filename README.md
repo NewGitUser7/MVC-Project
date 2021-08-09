@@ -11,5 +11,5 @@ For responsive interface bootstrap is used in front end.
 New functionalities can be added or existing functionalities can be modified with ease. 
 Separate Database Project is created. 
 Test projects can be created easily since classes are loosely coupled. 
-**NOTE: Please create Employee Table and EmployeeView since this project is a data base first approach,
+**NOTE: Please create Employee Table and EmployeeView since this project is a data base first approach; Employee Table, EmployeeView scripts are available in Database project;
 also change the connection string. 
